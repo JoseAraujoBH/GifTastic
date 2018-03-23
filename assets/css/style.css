@@ -1,0 +1,49 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url(../images/world2.jpg);
+}
+
+h1, h2, h3 {
+	opacity: 0.9;
+}
+
+h1 {
+	width: 610px;
+}
+
+h2 {
+    background-color: rgb(187, 200, 233);
+}
+
+h3 {
+	width: 550px;
+}
+
+#gif-form {
+	float: right;
+	margin-top: 0px;
+}
+
+#newbuttons {
+	float: left;
+	margin-bottom: 10px;
+}
+
+#gif-input {
+	width: 200px;
+}
+
+#gif-view {
+	margin-top: 40px;
+	margin-right: auto;
+	width: 700px;
+	height: auto;
+}
+
+p {
+	font-size: 15px;	
+	color: #FFFFFF;
+}
